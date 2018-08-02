@@ -1,0 +1,27 @@
+.Profile {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    background-color: inherit;
+    border: 3px solid gray;
+    border-radius: 5px;
+    padding: 30px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.infoPart {
+    margin-left: 30px;
+}
+
+.Info {
+    display: block;
+}
+
+.LabelWithContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+

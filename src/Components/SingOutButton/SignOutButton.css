@@ -1,0 +1,25 @@
+.SignOutButton {
+    background-color: white;
+    border: 1px lightgray solid;
+    color: gray;
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 2px;
+    font-family: "Lato", sans-serif;
+    width: 197px;
+    height: 43px;
+}
+
+.SignOutButton:hover{
+    border: 1px gray solid;
+}
+
+.Live {
+    color: gray;
+    font-weight: bold;
+}
+
+.Chat {
+    color: #f56e21;
+    font-weight: bold;
+}

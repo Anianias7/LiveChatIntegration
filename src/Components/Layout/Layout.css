@@ -1,0 +1,7 @@
+.Layout {
+    display: flex;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    border: 1px solid white;
+}
